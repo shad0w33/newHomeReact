@@ -4,6 +4,7 @@ import SingleCard from './components/SingleCard/SingleCard';
 import React from 'react';
 import './App.css';
 import { Grid } from "@mui/material";
+import { Footer } from './components/Footer/Footer';
 
 const mockData = [
   {
@@ -58,6 +59,7 @@ function App() {
       </Grid>
       ))}
       </Grid>
+      <Footer />
       </div>
   );
 }

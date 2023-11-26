@@ -1,0 +1,60 @@
+.footer {
+    background-color: black;
+    color: white;
+    display: flex;
+    height: 15rem;
+}
+
+.rules {
+    text-align: left;
+    width: 55%;
+}
+
+.rules-info {
+    padding-top: 5rem;
+    padding-left: 3rem;
+}
+
+.rules-info-item {
+    padding-right: 1.5rem;
+}
+
+.copyright {
+    padding-top: 1rem;
+    padding-left: 3rem;
+    font-size: 14px;
+}
+
+.social-media {
+    width: 15%;
+    text-align: left;
+    padding-left: 5rem;
+    padding-top: 5rem
+}
+
+.icons {
+    display: flex;
+    padding-top: 1rem;
+}
+
+.icon {
+    padding-right: 0.5rem;
+}
+
+.watchItApp
+{
+    padding-top: 5rem;
+
+}
+
+.watchItApp-text {
+    text-align: left;
+}
+
+.app-icons {
+    padding-top: 1rem;
+}
+
+.appleImg {
+    padding-left: 1rem;
+}
